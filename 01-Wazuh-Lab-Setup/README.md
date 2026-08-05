@@ -139,3 +139,10 @@ The completed lab became the foundation for all subsequent cybersecurity project
 - Security Monitoring
 - VMware Virtualization
 - Troubleshooting
+
+
+# Key Takeaways
+
+This project provided practical experience in deploying and administering a SIEM platform from the ground up. Beyond installation, it emphasized the importance of log collection, endpoint visibility, and troubleshooting data ingestion issues.
+
+The completed lab became the foundation for implementing custom detection rules, integrating threat intelligence, simulating attacks, and performing incident response activities throughout the internship.
