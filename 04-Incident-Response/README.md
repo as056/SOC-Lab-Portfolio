@@ -103,16 +103,10 @@ The investigation confirmed the complete attack sequence.
 
 # Attack Timeline
 
-The following timeline summarizes the simulated attack.
+The following timeline illustrates the sequence of events observed during the simulated SSH brute-force attack. By correlating authentication logs and security alerts, Wazuh enabled the complete reconstruction of the attack from initial access attempts through post-compromise activity.
 
-| Time | Event |
-|------|-------|
-| T1 | Multiple failed SSH logins |
-| T2 | Successful SSH login |
-| T3 | New Linux user created |
-| T4 | Incident investigated in Wazuh |
+<img width="1672" height="941" alt="ChatGPT Image Aug 6, 2026, 10_24_15 PM" src="https://github.com/user-attachments/assets/811efe37-9d52-4904-a085-4a50a4d5ac08" />
 
-![Attack Timeline](attack-timeline.png)
 
 ---
 
