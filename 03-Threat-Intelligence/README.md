@@ -70,7 +70,7 @@ Custom XML rules were developed to compare incoming Sysmon network connection ev
 
 The rules were designed to detect outbound communication with known malicious infrastructure.
 
-📄 **Supporting file:** `oilrig_rules.xml`
+
 
 
 <img width="909" height="697" alt="IOC rule" src="https://github.com/user-attachments/assets/92fc9e1a-d4fb-43d0-9899-479574f44bd8" />
@@ -84,7 +84,8 @@ OilRig techniques were reviewed using the MITRE ATT&CK framework to better under
 
 This helped ensure that the detection logic reflected documented adversary behavior.
 
-![MITRE Mapping](mitre-mapping.png)
+<img width="1366" height="613" alt="Oilrig TTPs" src="https://github.com/user-attachments/assets/9411a3a4-40e9-4aed-9e82-711a7bbf5b7e" />
+
 
 ---
 
@@ -129,7 +130,7 @@ These components demonstrated how threat intelligence can be operationalized wit
 
 - 📄 OilRig-Threat-Profile
 - 📄 oilrig_iocs.txt
-- 📄 oilrig_rules.xml
+
 
 ---
 
