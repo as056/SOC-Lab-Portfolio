@@ -6,7 +6,7 @@
 
 # 👋 About Me
 
-Hi! I'm **Abdalrhman**, a Computer Science student at the **University of Sharjah** with a strong interest in Cybersecurity and Security Operations (SOC).
+Hi! I'm **Abdirahman**, a Computer Science student at the **University of Sharjah** with a strong interest in Cybersecurity and Security Operations (SOC).
 
 This repository showcases the practical projects I completed during my cybersecurity internship at **DTS Solution**, where I gained hands-on experience deploying a SIEM, creating custom detections, integrating threat intelligence, investigating security incidents, and building SOC dashboards.
 
