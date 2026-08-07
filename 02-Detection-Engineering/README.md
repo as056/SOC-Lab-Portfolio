@@ -59,7 +59,6 @@ A custom detection rule was created to identify failed Windows login attempts by
 
 The rule was tested by intentionally entering incorrect credentials on the Windows endpoint.
 
-![Windows Event ID 4625](event4625.png)
 
 Once the authentication event was generated, the custom rule successfully produced a high-severity alert.
 
