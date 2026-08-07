@@ -31,7 +31,6 @@ Research was conducted using trusted open-source intelligence sources including:
 
 The collected information provided insight into OilRig's targeting, malware families, campaigns, and attack techniques.
 
-![OilRig Research](apt34-research.png)
 
 ---
 
