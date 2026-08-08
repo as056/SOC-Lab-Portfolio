@@ -1,7 +1,6 @@
 # 🛡️ Cybersecurity Portfolio
 
-> A collection of hands-on cybersecurity projects completed during my internship and personal learning journey, focusing on Security Operations Center (SOC), SIEM, Threat Intelligence, Detection Engineering, and Incident Response.
-
+> A collection of hands-on cybersecurity projects and practical learning experiences focused on Security Operations (SOC), SIEM, Threat Intelligence, Detection Engineering, Incident Response, and Blue Team operations.
 ---
 
 # 👋 About Me
